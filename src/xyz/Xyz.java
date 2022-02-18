@@ -6,7 +6,7 @@ package xyz;
 
 /**
  *
- * @author Ivy-Ivy
+ * @author Ivy-Ivy-Ivy
  */
 public class Xyz {
 
